@@ -1,16 +1,17 @@
 <h2 align="center">👋 I'm Cameron.</h2>
 
 <div style="display: flex; justify-content: space-between;">
-  <p align = "left">
+  <p>
     <br/>
     <a>🔭 I’m currently working at Aarsleff Ground Engineering<a/>
     <br/>
     <a>🌱 I’m currently learning more on testing<a/>
   </p>
-  <p align = "right">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=camcoles&langs_count=8&theme=github_dark" >
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camcoles&langs_count=8&theme=github_dark">
   </p>
 </div>
+
     
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=camcoles&show_icons=true&theme=github_dark" width = 400>
