@@ -1,6 +1,6 @@
 <h2 align="center">👋 I'm Cameron.</h2>
 
-<div justify-content = "center">
+<div style="display: flex; justify-content: space-between;">
   <p align = "left">
     <br/>
     <a>🔭 I’m currently working at Aarsleff Ground Engineering<a/>
