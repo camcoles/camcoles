@@ -4,14 +4,7 @@
   <a>🔭 I’m currently working at Aarsleff Ground Engineering<a/>
   <br/>
   <a>🌱 I’m currently learning more on testing<a/>
-    <a>🌱 I’m currently learning more on testing<a/>
-      <a>🌱 I’m currently learning more on testing<a/>
-        <a>🌱 I’m currently learning more on testing<a/>
-          <a>🌱 I’m currently learning more on testing<a/>
-            <a>🌱 I’m currently learning more on testing<a/>
-  <p align = "right">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=camcoles&langs_count=8&theme=github_dark" >
-  </p>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=camcoles&langs_count=8&theme=github_dark" >
 </p>
 
     
