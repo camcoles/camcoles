@@ -12,8 +12,33 @@
            60% { transform: rotate( 0.0deg) }
           100% { transform: rotate( 0.0deg) }
         }
-      </style>
+        
+        .container {
+          background-color: black;
 
+          width: 100%;
+          height: 300px;
+
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          color: white;
+
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        .hi {
+          animation: hi 1.5s linear -0.5s infinite;
+          display: inline-block;
+          transform-origin: 70% 70%;
+        }
+
+        @media (prefers-reduced-motion) {
+          .hi {
+            animation: none;
+          }
+      </style>
+      <div class="container"
       <h2 align = "left"><div class="hi">👋</div> I'm Cameron.</h2>
 
       <p align = "left">
@@ -31,6 +56,7 @@
         <img src = "https://github-readme-stats.vercel.app/api?username=camcoles&show_icons=true&theme=github_dark&hide_border=true" width = 400>
         <img src = "https://github-readme-streak-stats.herokuapp.com?user=camcoles&theme=github_dark&hide_border=true" width = 400>
       </p>
+     </div>
     </div>
   </foreignObject>
 </svg>
