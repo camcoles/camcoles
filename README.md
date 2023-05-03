@@ -6,7 +6,7 @@
   <br/>
   <a>🌱 I’m currently learning more on testing<a/>
   <p align = "right">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=camcoles&langs_count=8&theme=github_dark" >
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=camcoles&langs_count=8&theme=github_dark&layout=compact" >
   </p>
 </p>
 
