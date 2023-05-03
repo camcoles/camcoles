@@ -1,7 +1,20 @@
 <h2 align="center">👋 I'm Cameron.</h2>
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="display: flex; flex-direction: column; align-items: flex-start;">
+<style>
+  .div1 {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .div2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+</style>
+
+<div class="div1">
+  <div class="div2">
     <p>
       <br>
       <a>🔭 I'm currently working at Aarsleff Ground Engineering</a>
