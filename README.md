@@ -1,6 +1,6 @@
 <h2 align = "center">👋 I'm Cameron.</h2>
 
-<p align = "left">
+<p align = "center">
   <br/>
   <a>🔭 I’m currently working at Aarsleff Ground Engineering<a/>
   <br/>
