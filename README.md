@@ -1,30 +1,15 @@
 <h2 align="center">👋 I'm Cameron.</h2>
 
-<style>
-  .div1 {
-    display: flex;
-    justify-content: space-between;
-  }
-  
-  .div2 {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-  }
-</style>
-
-<div class="div1">
-  <div class="div2">
-    <p>
-      <br>
-      <a>🔭 I'm currently working at Aarsleff Ground Engineering</a>
-      <br>
-      <a>🌱 I'm currently learning more on testing</a>
-    </p>
-  </div>
-  <div>
+<div style="display: flex; justify-content: space-between;">
+  <p>
+    <br/>
+    <a>🔭 I’m currently working at Aarsleff Ground Engineering<a/>
+    <br/>
+    <a>🌱 I’m currently learning more on testing<a/>
+  </p>
+  <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camcoles&langs_count=8&theme=github_dark">
-  </div>
+  </p>
 </div>
     
 <p align = "center">
