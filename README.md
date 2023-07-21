@@ -5,7 +5,9 @@
     <br/>
     <a>🔭 I’m currently working at Aarsleff Ground Engineering<a/>
     <br/>
+    <br/>
     <a>🌱 I’m currently learning more on product deployment/ lifecycles.</a>
+    <br/>
     <br/>
     <a>💡I am looking to explore more functional programming languages<a/>
   </p>
