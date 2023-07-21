@@ -9,7 +9,7 @@
     <a>🌱 I’m currently learning more on product deployment/ lifecycles.</a>
     <br/>
     <br/>
-    <a>💡I am looking to explore more functional programming languages<a/>
+    <a>💡 I am looking to explore more functional programming languages<a/>
   </p>
   <p align = "right">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=camcoles&langs_count=8&theme=github_dark&hide_border=true" >
