@@ -11,6 +11,9 @@
     <a>💼 I’m currently working at Aarsleff Ground Engineering as a Developer. I work mainly with Typescript React, using Next.js for web, and React Native for mobile development.</a>
     <br/>
     <br/>
+    <a>🔭 I work mainly with Typescript React, using Next.js for web, and React Native for mobile development.</a>
+    <br/>
+    <br/>
     <a>🌱 I’m currently learning more on product deployment/lifecycles.</a>
     <br/>
     <br/>
