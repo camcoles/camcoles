@@ -1,7 +1,8 @@
 <h2>👋 I'm Cameron.</h2>
 
 <div>
-  <p align = "left">
+  <span>
+    <p align = "left">
     <br/>
     <a>🔭 I’m currently working at Aarsleff Ground Engineering.<a/>
     <br/>
@@ -14,6 +15,7 @@
   <p align = "right">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=camcoles&langs_count=8&theme=github_dark&hide_border=true" >
   </p>
+  </span>
 </div>
     
 <p align = "center">
