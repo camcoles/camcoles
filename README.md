@@ -8,12 +8,14 @@
 <div align="center">
   <p>
     <br/>
-    <a>🔭 I’m currently working at Aarsleff Ground Engineering.</a>
+    <a>💼 I’m currently working at Aarsleff Ground Engineering as a Developer.</a>
+    <br/>
+    <a> I work mainly with Typescript React, using Next.js for web, and React Native for mobile development.</a>
     <br/>
     <br/>
     <a>🌱 I’m currently learning more on product deployment/lifecycles.</a>
     <br/>
     <br/>
-    <a>💡 I am looking to explore more functional programming languages.</a>
+    <a>💡 I am looking to explore functional programming languages, such as OCaml!.</a>
   </p>
 </div>
